@@ -1,0 +1,51 @@
+Checked Exception
+UnCheckedException
+
+ArrayOutOfBondException
+StringOutOfBondException
+ArithmeticException
+OutofMemoryException
+
+Throwable
+
+Exception
+
+ArrayOutOfBondException
+StringOutOfBondException
+ArithmeticException
+OutofMemoryException
+
+CheckedException:
+
+IOException
+SQLException
+FileNotFoundException
+.
+.
+.
+throws Exception
+
+throws Keyword
+Try and Catch keyword
+user defined exception(throw)
+
+We use finally block to cleanup code or to disconnect third party application
+Exception:
+
+uncheckedException		CheckedException
+we can take multiple catch block, but in all the exception class we have to take child class first and then parent class
+We cann't use same exception more then one time
+CheckedException can be completely checked when there child classes are fully checked
+
+UserDefined Exception Class/ Custom Exception Class
+
+
+
+Exception:
+
+uncheckedException		CheckedException
+we can take multiple catch block, but in all the exception class we have to take child class first and then parent class
+We cann't use same exception more then one time
+CheckedException can be completely checked when there child classes are fully checked
+
+UserDefined Exception Class/ Custom Exception Class
